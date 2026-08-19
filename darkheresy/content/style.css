@@ -1,0 +1,11 @@
+
+body{font-family:'Microsoft YaHei','Segoe UI',sans-serif;color:#20242a;background:#fff;margin:0;padding:24px 34px;line-height:1.7;font-size:15px}
+h1{font-size:26px;border-bottom:3px solid #8c2433;padding-bottom:10px;margin:0 0 22px}h2{font-size:21px;color:#76202e;border-left:4px solid #9f2636;padding-left:10px;margin-top:30px}h3{font-size:18px;color:#3f4852;margin-top:24px}h4{font-size:16px}
+p{margin:8px 0}.page{border-top:1px solid #d9dde2;margin-top:26px;padding-top:18px}.page-label{color:#7a828c;font-size:12px;text-align:right}
+table{border-collapse:collapse;margin:14px 0;width:100%;font-size:14px}th,td{border:1px solid #9da5ae;padding:6px 8px;vertical-align:top}th{background:#e9edf1;font-weight:700}tr:nth-child(even) td{background:#f8f9fa}
+.source-note{color:#69727c;background:#f3f5f7;border:1px solid #d8dde2;padding:9px 12px;margin-bottom:20px}.image-alt{color:#69727c;font-style:italic}.empty{color:#8a929a}
+pre{white-space:pre-wrap;font-family:'Microsoft YaHei',sans-serif;background:#f6f7f8;border:1px solid #d9dde2;padding:12px;line-height:1.55}
+a{color:#7f1d2d}.searchbox{width:70%;font-size:16px;padding:9px;border:1px solid #929aa3}.searchbtn{font-size:16px;padding:9px 18px;margin-left:6px}.result{padding:13px 0;border-bottom:1px solid #ddd}.result a{font-size:17px;font-weight:700}.snippet{color:#4d555d;margin-top:5px}mark{background:#ffe58a}
+img{max-width:100%;height:auto}.pdf-figures{margin:16px 0;padding:12px;background:#f5f6f7;border:1px solid #d9dde2}.pdf-figure{margin:10px auto;text-align:center}.pdf-figure img{display:block;margin:auto}.pdf-figure figcaption{font-size:12px;color:#68717b;margin-top:5px}
+.preset-pages{text-align:center}.preset-page{display:block;max-width:100%;height:auto;margin:0 auto 24px;border:1px solid #9da5ae}.preset-note{color:#69727c;background:#f3f5f7;border:1px solid #d8dde2;padding:9px 12px;margin-bottom:20px}
+.part-nav{display:flex;justify-content:space-between;align-items:center;margin:16px 0;padding:9px 12px;background:#f3f5f7;border:1px solid #d8dde2;color:#69727c}.part-nav a{font-weight:700}
