@@ -9,3 +9,24 @@ a{color:#7f1d2d}.searchbox{width:70%;font-size:16px;padding:9px;border:1px solid
 img{max-width:100%;height:auto}.pdf-figures{margin:16px 0;padding:12px;background:#f5f6f7;border:1px solid #d9dde2}.pdf-figure{margin:10px auto;text-align:center}.pdf-figure img{display:block;margin:auto}.pdf-figure figcaption{font-size:12px;color:#68717b;margin-top:5px}
 .preset-pages{text-align:center}.preset-page{display:block;max-width:100%;height:auto;margin:0 auto 24px;border:1px solid #9da5ae}.preset-note{color:#69727c;background:#f3f5f7;border:1px solid #d8dde2;padding:9px 12px;margin-bottom:20px}
 .part-nav{display:flex;justify-content:space-between;align-items:center;margin:16px 0;padding:9px 12px;background:#f3f5f7;border:1px solid #d8dde2;color:#69727c}.part-nav a{font-weight:700}
+
+/* Semantic core-book pages. Keep the layout compatible with native CHM/IE9. */
+body.core-topic,body.semantic-topic{font-size:16px;line-height:1.8;max-width:1120px;margin:0 auto;padding:28px 38px}
+.core-topic h1,.semantic-topic h1{font-size:28px}.core-topic h2,.semantic-topic h2{font-size:22px}.core-topic h3,.semantic-topic h3{font-size:19px}
+.core-topic p,.semantic-topic p{margin:10px 0}.core-topic p.prose,.semantic-topic p.prose{text-indent:2em}
+.core-topic p.rule-entry,.semantic-topic p.rule-entry{text-indent:0;padding-left:12px;border-left:3px solid #d8dde2}
+.core-topic blockquote,.semantic-topic blockquote{margin:12px 0;padding:10px 16px;background:#f7f7f5;border-left:4px solid #9f2636}
+.semantic-nav{display:block;text-align:center;min-height:28px;line-height:28px;margin:16px 0;padding:9px 12px;background:#f3f5f7;border:1px solid #d8dde2}
+.semantic-nav:after{content:"";display:block;clear:both}.semantic-nav .prev{float:left}.semantic-nav .next{float:right}
+.semantic-path{color:#69727c;font-size:13px;margin:-12px 0 14px}.semantic-path a{color:#59636e}
+.semantic-toc{margin:18px 0 24px;padding:14px 18px;background:#fffaf1;border:1px solid #d8c9ae;border-left:4px solid #9f2636}
+.semantic-toc strong{color:#76202e}.semantic-toc ul{margin:8px 0 0;padding-left:24px;columns:2;column-gap:32px}.semantic-toc li{margin:4px 0;break-inside:avoid}
+.semantic-toc .level-2{margin-left:18px}.semantic-toc .level-3{margin-left:36px;font-size:14px}
+.table-scroll{width:100%;overflow:auto;margin:16px 0}.table-scroll table{margin:0;width:100%;min-width:560px;table-layout:auto}
+.core-data-table caption{font-weight:700;text-align:left;color:#3f4852;padding:6px 0}
+.core-data-table th,.core-data-table td{word-break:normal;overflow-wrap:break-word}
+.core-data-table td:empty{padding:0;border-left:0;border-right:0}
+.core-data-table blockquote{margin:0;padding:0;background:none;border:0}
+.core-data-table p,.core-data-table p.rule-entry{margin:0;padding:0;text-indent:0;border:0;background:none}
+.semantic-heading-image{text-align:center;margin:14px auto}.semantic-heading-image img{display:block;margin:auto}
+.empty-topic{color:#69727c;background:#f3f5f7;border:1px solid #d8dde2;padding:12px 16px}
